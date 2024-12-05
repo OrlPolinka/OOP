@@ -1,0 +1,7 @@
+Файлы:
+C:\Users\user\Desktop\VS\ооп\lab12\lab12.sln
+C:\Users\user\Desktop\VS\ооп\lab12\OPVLog.txt
+Папки:
+C:\Users\user\Desktop\VS\ооп\lab12\.vs
+C:\Users\user\Desktop\VS\ооп\lab12\lab12
+C:\Users\user\Desktop\VS\ооп\lab12\OPVInspect

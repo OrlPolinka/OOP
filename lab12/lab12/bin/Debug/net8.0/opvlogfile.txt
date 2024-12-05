@@ -1,0 +1,34 @@
+2024-12-04 21:34:52	Action: Создание файла	File: C:\Temp\example1.txt
+2024-12-04 21:34:52	Action: Чтение файла	File: C:\Temp\example2.txt
+2024-12-04 21:34:52	Action: Удаление файла	File: C:\Temp\example3.txt
+2024-12-04 21:34:52	Action: GetFreeSpace	File: Drive: C
+2024-12-04 21:34:52	Action: GetFileSystem	File: Drive: C
+2024-12-04 21:34:52	Action: DisplayAllDrivesInfo	File: Listing all drives
+2024-12-04 21:34:52	Action: GetFullPath	File: File Path: example.txt
+2024-12-04 21:34:52	Action: GetFileInfo	File: File Path: example.txt
+2024-12-04 21:34:52	Action: GetFileDates	File: File Path: example.txt
+2024-12-04 21:34:52	Action: GetFileCount	File: Path: TestDirectory
+2024-12-04 21:34:52	Action: GetCreationTime	File: Path: TestDirectory
+2024-12-04 21:34:52	Action: GetSubdirectoryCount	File: Path: TestDirectory
+2024-12-04 21:34:52	Action: GetParentDirectories	File: Path: TestDirectory
+2024-12-04 21:34:52	Action: InspectDisk	File: Disk Name: C:\
+2024-12-04 21:34:52	Action: CopyFilesWithExtension	File: Source: C:\TestSource, Extension: txt, Target: C:\TestTarget
+2024-12-04 21:34:52	Action: ArchiveFiles	File: Source: C:\TestTarget\OPVInspect\OPVFiles, Archive: C:\TestTarget\OPVFiles.zip
+2024-12-04 21:34:52	Action: ExtractArchive	File: Archive: C:\TestTarget\OPVFiles.zip, Target: C:\TestTarget\ExtractedFiles
+2024-12-04 21:37:26	Action: Создание файла	File: C:\Temp\example1.txt
+2024-12-04 21:37:26	Action: Чтение файла	File: C:\Temp\example2.txt
+2024-12-04 21:37:26	Action: Удаление файла	File: C:\Temp\example3.txt
+2024-12-04 21:37:26	Action: GetFreeSpace	File: Drive: C
+2024-12-04 21:37:26	Action: GetFileSystem	File: Drive: C
+2024-12-04 21:37:26	Action: DisplayAllDrivesInfo	File: Listing all drives
+2024-12-04 21:37:26	Action: GetFullPath	File: File Path: example.txt
+2024-12-04 21:37:26	Action: GetFileInfo	File: File Path: example.txt
+2024-12-04 21:37:26	Action: GetFileDates	File: File Path: example.txt
+2024-12-04 21:37:26	Action: GetFileCount	File: Path: TestDirectory
+2024-12-04 21:37:26	Action: GetCreationTime	File: Path: TestDirectory
+2024-12-04 21:37:26	Action: GetSubdirectoryCount	File: Path: TestDirectory
+2024-12-04 21:37:26	Action: GetParentDirectories	File: Path: TestDirectory
+2024-12-04 21:37:26	Action: InspectDisk	File: Disk Name: C:\
+2024-12-04 21:37:26	Action: CopyFilesWithExtension	File: Source: C:\TestSource, Extension: txt, Target: C:\TestTarget
+2024-12-04 21:37:26	Action: ArchiveFiles	File: Source: C:\TestTarget\OPVInspect\OPVFiles, Archive: C:\TestTarget\OPVFiles.zip
+2024-12-04 21:37:26	Action: ExtractArchive	File: Archive: C:\TestTarget\OPVFiles.zip, Target: C:\TestTarget\ExtractedFiles

@@ -1,0 +1,27 @@
+
+Сборка: lab11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Публичный конструктор отсутствует
+
+Количество публичных методов в классе lab11.Program+Director: 8
+Тип: Method	 Имя: get_Name
+Тип: Method	 Имя: set_Name
+Тип: Method	 Имя: TurnOff
+Тип: Method	 Имя: TurnOn
+Тип: Method	 Имя: GetType
+Тип: Method	 Имя: ToString
+Тип: Method	 Имя: Equals
+Тип: Method	 Имя: GetHashCode
+
+Информация о полях и свойствах класса lab11.Program+Director
+Количество свойств: 1
+Количество полей: 0
+Поля:
+Свойства:
+Тип: System.String	 Имя: Name
+
+Количество интерфейсов в классе lab11.Program+Director: 0
+
+Методы класса lab11.Program+Director
+Количество методов с параметром типа String: 1
+public  Void set_Name (String value)
